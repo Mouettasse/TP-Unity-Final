@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: b69c69c9512b282458ac8156f2b47498
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Aile droite
+    100002: Aile Gauche
+    100004: Bec
+    100006: Bec001
+    100008: Boucle
+    100010: Casquette
+    100012: Ceinture
+    100014: Corps
+    100016: Oeil droit
+    100018: Oeil gauche
+    100020: Os Aile droite
+    100022: Os Aile Gauche
+    100024: Os Cou
+    100026: Os pied droit
+    100028: Os pied gauche
+    100030: Os Tete
+    100032: Patte droite
+    100034: Patte gauche
+    100036: //RootNode
+    100038: Pupille droite
+    100040: Pupille gauche
+    100042: Tete
+    100044: Visiere
+    400000: Aile droite
+    400002: Aile Gauche
+    400004: Bec
+    400006: Bec001
+    400008: Boucle
+    400010: Casquette
+    400012: Ceinture
+    400014: Corps
+    400016: Oeil droit
+    400018: Oeil gauche
+    400020: Os Aile droite
+    400022: Os Aile Gauche
+    400024: Os Cou
+    400026: Os pied droit
+    400028: Os pied gauche
+    400030: Os Tete
+    400032: Patte droite
+    400034: Patte gauche
+    400036: //RootNode
+    400038: Pupille droite
+    400040: Pupille gauche
+    400042: Tete
+    400044: Visiere
+    2300000: Bec
+    2300002: Bec001
+    2300004: Boucle
+    2300006: Casquette
+    2300008: Ceinture
+    2300010: Corps
+    2300012: Oeil droit
+    2300014: Oeil gauche
+    2300016: Pupille droite
+    2300018: Pupille gauche
+    2300020: Visiere
+    3300000: Bec
+    3300002: Bec001
+    3300004: Boucle
+    3300006: Casquette
+    3300008: Ceinture
+    3300010: Corps
+    3300012: Oeil droit
+    3300014: Oeil gauche
+    3300016: Pupille droite
+    3300018: Pupille gauche
+    3300020: Visiere
+    4300000: Patte droite
+    4300002: Patte gauche
+    4300004: Aile droite
+    4300006: Corps
+    4300008: Ceinture
+    4300010: Boucle
+    4300012: Tete
+    4300014: Casquette
+    4300016: Bec
+    4300018: Oeil gauche
+    4300020: Pupille gauche
+    4300022: Oeil droit
+    4300024: Pupille droite
+    4300026: Visiere
+    4300028: Bec001
+    4300030: Aile Gauche
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Aile droite
+    13700002: Aile Gauche
+    13700004: Patte droite
+    13700006: Patte gauche
+    13700008: Tete
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Aile droite
+        weight: 1
+      - path: Aile Gauche
+        weight: 1
+      - path: Corps
+        weight: 1
+      - path: Corps/Ceinture
+        weight: 1
+      - path: Corps/Ceinture/Boucle
+        weight: 1
+      - path: Os Aile droite
+        weight: 1
+      - path: Os Aile Gauche
+        weight: 1
+      - path: Os Cou
+        weight: 1
+      - path: Os pied droit
+        weight: 1
+      - path: Os pied gauche
+        weight: 1
+      - path: Os Tete
+        weight: 1
+      - path: Patte droite
+        weight: 1
+      - path: Patte gauche
+        weight: 1
+      - path: Tete
+        weight: 1
+      - path: Tete/Bec
+        weight: 1
+      - path: Tete/Bec001
+        weight: 1
+      - path: Tete/Casquette
+        weight: 1
+      - path: Tete/Oeil droit
+        weight: 1
+      - path: Tete/Oeil droit/Pupille droite
+        weight: 1
+      - path: Tete/Oeil gauche
+        weight: 1
+      - path: Tete/Oeil gauche/Pupille gauche
+        weight: 1
+      - path: Tete/Visiere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

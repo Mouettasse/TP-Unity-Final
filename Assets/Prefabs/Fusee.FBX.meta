@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: 78dc89d068b8420459a7dedce77d5250
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Cone002
+    100002: Cone004
+    100004: Cone006
+    100006: Cone007
+    100008: Cone008
+    100010: Cone009
+    100012: //RootNode
+    100014: Hublo bas
+    100016: Hublo bas001
+    100018: Hublo haut
+    100020: Hublo haut001
+    100022: Hublo milieu
+    100024: Hublo milieu001
+    100026: V2
+    400000: Cone002
+    400002: Cone004
+    400004: Cone006
+    400006: Cone007
+    400008: Cone008
+    400010: Cone009
+    400012: //RootNode
+    400014: Hublo bas
+    400016: Hublo bas001
+    400018: Hublo haut
+    400020: Hublo haut001
+    400022: Hublo milieu
+    400024: Hublo milieu001
+    400026: V2
+    2300000: Cone002
+    2300002: Cone004
+    2300004: Cone006
+    2300006: Cone007
+    2300008: Cone008
+    2300010: Cone009
+    2300012: Hublo bas
+    2300014: Hublo bas001
+    2300016: Hublo haut
+    2300018: Hublo haut001
+    2300020: Hublo milieu
+    2300022: Hublo milieu001
+    2300024: V2
+    3300000: Cone002
+    3300002: Cone004
+    3300004: Cone006
+    3300006: Cone007
+    3300008: Cone008
+    3300010: Cone009
+    3300012: Hublo bas
+    3300014: Hublo bas001
+    3300016: Hublo haut
+    3300018: Hublo haut001
+    3300020: Hublo milieu
+    3300022: Hublo milieu001
+    3300024: V2
+    4300000: V2
+    4300002: Hublo milieu
+    4300004: Cone002
+    4300006: Hublo haut
+    4300008: Cone004
+    4300010: Hublo bas
+    4300012: Cone006
+    4300014: Hublo haut001
+    4300016: Cone007
+    4300018: Hublo milieu001
+    4300020: Cone008
+    4300022: Hublo bas001
+    4300024: Cone009
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

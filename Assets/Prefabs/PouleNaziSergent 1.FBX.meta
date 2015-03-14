@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: c13dad7b3d0a5b54ca47e9c9fb5efa6b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Aile droite
+    100002: Bec
+    100004: Bec001
+    100006: Boucle
+    100008: Casquette
+    100010: Ceinture
+    100012: Corps
+    100014: Oeil droit
+    100016: Oeil gauche
+    100018: Os Aile droite
+    100020: Os Aile Gauche
+    100022: Os Cou
+    100024: Os pied droit
+    100026: Os pied gauche
+    100028: Os Tete
+    100030: Patte droite
+    100032: Patte gauche
+    100034: Pistolet
+    100036: //RootNode
+    100038: Pupille droite
+    100040: Pupille gauche
+    100042: Tete
+    100044: Visiere
+    400000: Aile droite
+    400002: Bec
+    400004: Bec001
+    400006: Boucle
+    400008: Casquette
+    400010: Ceinture
+    400012: Corps
+    400014: Oeil droit
+    400016: Oeil gauche
+    400018: Os Aile droite
+    400020: Os Aile Gauche
+    400022: Os Cou
+    400024: Os pied droit
+    400026: Os pied gauche
+    400028: Os Tete
+    400030: Patte droite
+    400032: Patte gauche
+    400034: Pistolet
+    400036: //RootNode
+    400038: Pupille droite
+    400040: Pupille gauche
+    400042: Tete
+    400044: Visiere
+    2300000: Bec
+    2300002: Bec001
+    2300004: Boucle
+    2300006: Casquette
+    2300008: Ceinture
+    2300010: Corps
+    2300012: Oeil droit
+    2300014: Oeil gauche
+    2300016: Pupille droite
+    2300018: Pupille gauche
+    2300020: Tete
+    2300022: Visiere
+    3300000: Bec
+    3300002: Bec001
+    3300004: Boucle
+    3300006: Casquette
+    3300008: Ceinture
+    3300010: Corps
+    3300012: Oeil droit
+    3300014: Oeil gauche
+    3300016: Pupille droite
+    3300018: Pupille gauche
+    3300020: Tete
+    3300022: Visiere
+    4300000: Patte droite
+    4300002: Patte gauche
+    4300004: Aile droite
+    4300006: Corps
+    4300008: Ceinture
+    4300010: Boucle
+    4300012: Tete
+    4300014: Casquette
+    4300016: Bec
+    4300018: Oeil gauche
+    4300020: Pupille gauche
+    4300022: Oeil droit
+    4300024: Pupille droite
+    4300026: Visiere
+    4300028: Bec001
+    4300030: Pistolet
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Aile droite
+    13700002: Patte droite
+    13700004: Patte gauche
+    13700006: Pistolet
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

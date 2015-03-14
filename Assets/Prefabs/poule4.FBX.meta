@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: 1a9f365a3ab0efc46aea07c8d1dbe5b9
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Aile droite
+    100002: Aile gauche
+    100004: Bec
+    100006: Corps
+    100008: Cou
+    100010: Crete
+    100012: Oeil droit
+    100014: Oeil gauche
+    100016: Os Aile droite
+    100018: Os Aile Gauche
+    100020: Os Cou
+    100022: Os pied droit
+    100024: Os pied gauche
+    100026: Os Tete
+    100028: Patte droite
+    100030: Patte gauche
+    100032: //RootNode
+    100034: Pupille droite
+    100036: Pupille gauche
+    100038: TETE
+    100040: Tete
+    400000: Aile droite
+    400002: Aile gauche
+    400004: Bec
+    400006: Corps
+    400008: Cou
+    400010: Crete
+    400012: Oeil droit
+    400014: Oeil gauche
+    400016: Os Aile droite
+    400018: Os Aile Gauche
+    400020: Os Cou
+    400022: Os pied droit
+    400024: Os pied gauche
+    400026: Os Tete
+    400028: Patte droite
+    400030: Patte gauche
+    400032: //RootNode
+    400034: Pupille droite
+    400036: Pupille gauche
+    400038: TETE
+    400040: Tete
+    2300000: Bec
+    2300002: Corps
+    2300004: Crete
+    2300006: Oeil droit
+    2300008: Oeil gauche
+    2300010: Pupille droite
+    2300012: Pupille gauche
+    2300014: Tete
+    3300000: Bec
+    3300002: Corps
+    3300004: Crete
+    3300006: Oeil droit
+    3300008: Oeil gauche
+    3300010: Pupille droite
+    3300012: Pupille gauche
+    3300014: Tete
+    4300000: Patte droite
+    4300002: Patte gauche
+    4300004: Aile gauche
+    4300006: Aile droite
+    4300008: Corps
+    4300010: Cou
+    4300012: Tete
+    4300014: Crete
+    4300016: Bec
+    4300018: Oeil droit
+    4300020: Oeil gauche
+    4300022: Pupille droite
+    4300024: Pupille gauche
+    7400000: Idle
+    7400002: Walk
+    7400004: Run
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Aile droite
+    13700002: Aile gauche
+    13700004: Cou
+    13700006: Patte droite
+    13700008: Patte gauche
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Aile droite
+        weight: 1
+      - path: Aile gauche
+        weight: 1
+      - path: Corps
+        weight: 1
+      - path: Cou
+        weight: 1
+      - path: Os Aile droite
+        weight: 1
+      - path: Os Aile Gauche
+        weight: 1
+      - path: Os Cou
+        weight: 1
+      - path: Os pied droit
+        weight: 1
+      - path: Os pied gauche
+        weight: 1
+      - path: Os Tete
+        weight: 1
+      - path: Patte droite
+        weight: 1
+      - path: Patte gauche
+        weight: 1
+      - path: TETE
+        weight: 1
+      - path: TETE/Bec
+        weight: 1
+      - path: TETE/Crete
+        weight: 1
+      - path: TETE/Oeil droit
+        weight: 1
+      - path: TETE/Oeil gauche
+        weight: 1
+      - path: TETE/Pupille droite
+        weight: 1
+      - path: TETE/Pupille gauche
+        weight: 1
+      - path: TETE/Tete
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 90
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Aile droite
+        weight: 1
+      - path: Aile gauche
+        weight: 1
+      - path: Corps
+        weight: 1
+      - path: Cou
+        weight: 1
+      - path: Os Aile droite
+        weight: 1
+      - path: Os Aile Gauche
+        weight: 1
+      - path: Os Cou
+        weight: 1
+      - path: Os pied droit
+        weight: 1
+      - path: Os pied gauche
+        weight: 1
+      - path: Os Tete
+        weight: 1
+      - path: Patte droite
+        weight: 1
+      - path: Patte gauche
+        weight: 1
+      - path: TETE
+        weight: 1
+      - path: TETE/Bec
+        weight: 1
+      - path: TETE/Crete
+        weight: 1
+      - path: TETE/Oeil droit
+        weight: 1
+      - path: TETE/Oeil gauche
+        weight: 1
+      - path: TETE/Pupille droite
+        weight: 1
+      - path: TETE/Pupille gauche
+        weight: 1
+      - path: TETE/Tete
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 90
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Aile droite
+        weight: 1
+      - path: Aile gauche
+        weight: 1
+      - path: Corps
+        weight: 1
+      - path: Cou
+        weight: 1
+      - path: Os Aile droite
+        weight: 1
+      - path: Os Aile Gauche
+        weight: 1
+      - path: Os Cou
+        weight: 1
+      - path: Os pied droit
+        weight: 1
+      - path: Os pied gauche
+        weight: 1
+      - path: Os Tete
+        weight: 1
+      - path: Patte droite
+        weight: 1
+      - path: Patte gauche
+        weight: 1
+      - path: TETE
+        weight: 1
+      - path: TETE/Bec
+        weight: 1
+      - path: TETE/Crete
+        weight: 1
+      - path: TETE/Oeil droit
+        weight: 1
+      - path: TETE/Oeil gauche
+        weight: 1
+      - path: TETE/Pupille droite
+        weight: 1
+      - path: TETE/Pupille gauche
+        weight: 1
+      - path: TETE/Tete
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
